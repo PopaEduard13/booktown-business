@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "571466497240",
+    "project_id": "flutter-chat-dd93c",
+    "storage_bucket": "flutter-chat-dd93c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571466497240:android:9bc9caf27b0688bd022bad",
+        "android_client_info": {
+          "package_name": "com.example.booktown_business"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571466497240-jhs086k55ul3fdpslk0f3uktbl1ga18s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqFohEy_Rzn4hWHpAIBiFksO0bQ1SypuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571466497240-jhs086k55ul3fdpslk0f3uktbl1ga18s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571466497240:android:e039c2ff43326978022bad",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571466497240-jhs086k55ul3fdpslk0f3uktbl1ga18s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqFohEy_Rzn4hWHpAIBiFksO0bQ1SypuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571466497240-jhs086k55ul3fdpslk0f3uktbl1ga18s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
